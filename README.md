@@ -25,7 +25,4 @@ The goal of this project was to move beyond high-level libraries like Pandas and
 ## 📂 Dataset
 The dataset 	`nyc_taxis.csv` contains information about pickup/dropoff locations, trip distances, durations, and fare breakdowns.
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
+
